@@ -1,7 +1,7 @@
 # Price Discovery Personal Project
 
 ## Learning how to build a complex personal project
-- Deploy frequently and push to version control.
+- Deploy frequently and push to version control. The more you develop locally, the more complexities you bring when it comes time to deploy. Much better to struggle in increments when facing deployment challenges
 
 ## What is Price Discovery?
 
